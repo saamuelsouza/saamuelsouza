@@ -1,5 +1,5 @@
-## Olá, eu sou o Samuel! Sejam todos bem-vindos ao meu perfil no  🧑🏾‍💻
-- 🌱 Eu sou um Engenheiro de Qualidade de Software em formação pela EBAC e pela DIO.
+## Olá, eu sou o Samuel! Seja bem-vindo ao meu perfil no GitHub 🧑🏾‍💻
+- 🌱 Sou Engenheiro de Qualidade de Software em formação pela EBAC e pela DIO.
 - 📍 Moro na região metropolitana de Belo Horizonte em Minas Gerais.
 <div style="display: inline_block"><br>
   <img align="center" alt="Sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
