@@ -1,6 +1,7 @@
 ## Olá, eu sou o Samuel! Seja bem-vindo ao meu perfil no GitHub 🧑🏾‍💻
 - 🌱 Engenheiro de Qualidade de Software em formação pela EBAC, Raro Academy e DIO.
 <div style="display: inline_block"><br>
+  <img align="center" alt="Sam-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
   <img align="center" alt="Sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
