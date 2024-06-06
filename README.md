@@ -1,5 +1,5 @@
 ## Olá, eu sou o Samuel! Seja bem-vindo ao meu perfil no GitHub 🧑🏾‍💻
-- 🌱 Engenheiro de Qualidade de Software em formação pela EBAC, Raro Academy e DIO.
+- 🌱 Engenheiro de Qualidade de Software em formação pela EBAC, DIO e Raro Academy.
 <div style="display: inline_block"><br>
        
   <img align="center" alt="Sam-Cypress" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
